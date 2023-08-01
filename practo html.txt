@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Practo</title>
+  <link rel="stylesheet" type="text/css" href="css/style.css">
+</head>
+<body>
+  <header>
+    <nav>
+      <div class="container">
+        <a href="#" class="logo">Practo</a>
+        <ul class="nav-links">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Doctors</a></li>
+          <li><a href="#">Appointments</a></li>
+          <li><a href="#">Contact</a></li>
+        </ul> 
+      </div>
+    </nav>
+    <div class="hero">
+      <div class="container">
+        <h1>Find the Best Doctors</h1>
+        <p>Book appointments with top healthcare providers</p>
+        <a href="#" class="btn">Get Started</a>
+      </div>
+    </div>
+  </header>
+  <section class="about">
+    <div class="container">
+      <h2>About Us</h2>
+      <p>Practo is a leading digital healthcare platform that connects patients with the best doctors and healthcare providers in their area. With our easy-to-use platform, you can book appointments, consult with doctors online, and manage your health records effortlessly.</p>
+    </div>
+  </section>
+
+  <section class="services">
+    <div class="container">
+      <h2>Our Services</h2>
+      <div class="service-card">
+        <img src="service1.jpg" alt="Service 1">
+        <h3>Online Consultations</h3>
+        <p>Connect with doctors and specialists from the comfort of your home through our secure online consultation platform.</p>
+      </div>
+      <div class="service-card">
+        <img src="service2.jpg" alt="Service 2">
+        <h3>Book Appointments</h3>
+        <p>Find and book appointments with the best doctors and healthcare providers near you.</p>
+      </div>
+      <!-- Add more service cards here -->
+    </div>
+  </section>
+
+  <footer>
+    <div class="container">
+      <p>&copy; 2023 Practo. All rights reserved.</p>
+    </div>
+  </footer>
+</body>
