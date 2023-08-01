@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>We Do Great</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f0f0f0;
+    }
+
+    .container {
+      text-align: center;
+      padding: 50px 0;
+    }
+
+    .message {
+      font-size: 36px;
+      color: #333;
+      margin-bottom: 20px;
+    }
+
+    .description {
+      font-size: 18px;
+      color: #666;
+      margin-bottom: 30px;
+    }
+
+    .images {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      margin-bottom: 30px;
+    }
+
+    .image {
+      max-width: 200px;
+      margin: 0 20px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="message">We Do Great</div>
+    <div class="description">Welcome to our awesome website!</div>
+
+    <div class="images">
+      <img src="user.png" alt="user" class="image">
+      <img src="briefcase (1).png" alt="briefcase (1)" class="image">
+      <img src="location (1).png" alt="location (1)" class="image">
+    </div>
+
+    <div class="description">15 Million users every month</div>
+    <div class="description">Trusted by 2,00,000 healthcare professionals</div>
+    <div class="description">We serve in 9 cities</div>
+  </div>
+</body>
+</html>
